@@ -1,0 +1,624 @@
+Baidu Inc,CHINA
+Nice Ltd,ISRAEL
+Canaan Inc,CHINA
+BlackBerry Ltd,CANADA
+Micro Focus International PLC,BRITAIN
+Sierra Wireless Inc,CANADA
+Locaweb Servicos de Internet SA,BRAZIL
+Weimob Inc,CHINA
+Appen Ltd,AUSTRALIA
+MediaTek Inc,TAIWAN
+HTC Corp,TAIWAN
+Mitac Holdings Corp,TAIWAN
+S&T AG,AUSTRIA
+BasWare Oyj,FINLAND
+Kingsoft Cloud Holdings Ltd,CHINA
+Taboola.com Ltd,ISRAEL
+OneConnect Financial Technology Co Ltd,CHINA
+Plaid Inc,JAPAN
+Farfetch Ltd,BRITAIN
+WealthNavi Inc,JAPAN
+Alibaba Group Holding Ltd,CHINA
+JMDC Inc,JAPAN
+Rakuten Group Inc,JAPAN
+Optim Corp,JAPAN
+Northern Data AG,GERMANY
+Ming Yuan Cloud Group Holdings Ltd,CHINA
+Kinaxis Inc,CANADA
+JD.com Inc,CHINA
+Xiaomi Corp,CHINA
+Advantech Co Ltd,TAIWAN
+China Resources Medical Holdings Co Ltd,CHINA
+SOS Ltd,CHINA
+Argo Blockchain PLC,BRITAIN
+Hut 8 Mining Corp,CANADA
+Hive Blockchain Technologies Ltd,CANADA
+Pushpay Holdings Ltd,NEW ZEALAND
+MercadoLibre Inc,ARGENTINA
+China Youzan Ltd,HONG KONG
+EVERTEC Inc,PUERTO RICO
+Worldline SA/France,FRANCE
+Sea Ltd,SINGAPORE
+Pinduoduo Inc,CHINA
+Bitfarms Ltd/Canada,CANADA
+BASE Inc,JAPAN
+Hi Sun Technology China Ltd,HONG KONG
+Adyen NV,NETHERLANDS
+Xero Ltd,NEW ZEALAND
+Lightspeed Commerce Inc,CANADA
+Accenture PLC,IRELAND
+Meituan,CHINA
+Nova Ltd,ISRAEL
+NHN KCP Corp,SOUTH KOREA
+FinVolution Group,CHINA
+Kginicis Co Ltd,SOUTH KOREA
+BIT Mining Ltd,HONG KONG
+Yandex NV,RUSSIA
+Shopify Inc,CANADA
+GMO Payment Gateway Inc,JAPAN
+BrainChip Holdings Ltd,AUSTRALIA
+QIWI plc,CYPRUS
+Tyro Payments Ltd,AUSTRALIA
+Software AG,GERMANY
+Yeahka Ltd,CHINA
+Innoviz Technologies Ltd,ISRAEL
+Prosus NV,NETHERLANDS
+Digital Garage Inc,JAPAN
+VK Co Ltd,RUSSIA
+Zepp Health Corp,CHINA
+Nuvei Corp,CANADA
+Veoneer Inc,SWEDEN
+NXP Semiconductors NV,NETHERLANDS
+Hypoport SE,GERMANY
+KPIT Technologies Ltd,INDIA
+Endava PLC,BRITAIN
+Ennoconn Corp,TAIWAN
+Novatek Microelectronics Corp,TAIWAN
+STMicroelectronics NV,SWITZERLAND
+Nexi SpA,ITALY
+JIG-SAW Inc,JAPAN
+Americanas SA,BRAZIL
+GMO GlobalSign Holdings KK,JAPAN
+Fawry for Banking & Payment Technology S,EGYPT
+GMO Financial Gate Inc,JAPAN
+Garmin Ltd,SWITZERLAND
+Hua Hong Semiconductor Ltd,CHINA
+CM.com NV,NETHERLANDS
+AudioCodes Ltd,ISRAEL
+Tencent Holdings Ltd,CHINA
+Tanla Platforms Ltd,INDIA
+Secunet Security Networks AG,GERMANY
+X-Fab Silicon Foundries SE,BELGIUM
+Infibeam Avenues Ltd,INDIA
+Cub Elecparts Inc,TAIWAN
+Hennge KK,JAPAN
+TELUS International CDA Inc,CANADA
+Inspur International Ltd,HONG KONG
+Razer Inc,SINGAPORE
+Kuaishou Technology,CHINA
+Full Truck Alliance Co Ltd,CHINA
+Lufax Holding Ltd,CHINA
+Beijing Sinnet Technology Co Ltd,CHINA
+Qudian Inc,CHINA
+Marui Group Co Ltd,JAPAN
+Cognyte Software Ltd,ISRAEL
+Network International Holdings PLC,UAE
+Faraday Technology Corp,TAIWAN
+Fiverr International Ltd,ISRAEL
+Pagseguro Digital Ltd,BRAZIL
+Well Health Technologies Corp,CANADA
+AbCellera Biologics Inc,CANADA
+Resurs Holding AB,SWEDEN
+Advantest Corp,JAPAN
+Funding Circle Holdings PLC,BRITAIN
+Himax Technologies Inc,TAIWAN
+TSMC,TAIWAN
+Zip Co Ltd,AUSTRALIA
+Autohome Inc,CHINA
+Optex Group Co Ltd,JAPAN
+Z Holdings Corp,JAPAN
+StoneCo Ltd,BRAZIL
+IndiaMart InterMesh Ltd,INDIA
+Happiest Minds Technologies Ltd,INDIA
+Alimtiaz Investment Group KSC,KUWAIT
+Tower Semiconductor Ltd,ISRAEL
+NetEase Inc,CHINA
+FocalTech Systems Co Ltd,TAIWAN
+TECSYS Inc,CANADA
+Koreacenter Co Ltd,SOUTH KOREA
+Cielo SA,BRAZIL
+Camtek Ltd/Israel,ISRAEL
+Playtika Holding Corp,ISRAEL
+SHIJI INFORMATION,CHINA
+Topsec Technologies Group Inc,CHINA
+QIAGEN NV,NETHERLANDS
+Pharming Group NV,NETHERLANDS
+ICON PLC,IRELAND
+Mesoblast Ltd,AUSTRALIA
+Steadfast Group Ltd,AUSTRALIA
+Burning Rock Biotech Ltd,CHINA
+Bioneer Corp,SOUTH KOREA
+Nano Dimension Ltd,ISRAEL
+Cellectis SA,FRANCE
+CRISPR Therapeutics AG,SWITZERLAND
+NKMax Co Ltd,SOUTH KOREA
+dotdigital group plc,BRITAIN
+Wix.com Ltd,ISRAEL
+ProQR Therapeutics NV,NETHERLANDS
+Ascential PLC,BRITAIN
+Medytox Inc,SOUTH KOREA
+Seegene Inc,SOUTH KOREA
+Radware Ltd,ISRAEL
+NIO Inc,CHINA
+TaiMed Biologics Inc,TAIWAN
+Experian PLC,IRELAND
+Plus500 Ltd,ISRAEL
+JinkoSolar Holding Co Ltd,CHINA
+Merus NV,NETHERLANDS
+Wuxi Biologics Cayman Inc,CHINA
+Genscript Biotech Corp,CHINA
+Imugene Ltd,AUSTRALIA
+KE Holdings Inc,CHINA
+Autolus Therapeutics PLC,BRITAIN
+Element Fleet Management Corp,CANADA
+SanBio Co Ltd,JAPAN
+iFAST Corp Ltd,SINGAPORE
+Aptiv PLC,IRELAND
+Auto Trader Group PLC,BRITAIN
+JW Cayman Therapeutics Co Ltd,CHINA
+Repare Therapeutics Inc,CANADA
+Tanvex BioPharma Inc,TAIWAN
+Alchip Technologies Ltd,TAIWAN
+u-blox Holding AG,SWITZERLAND
+BioArctic AB,SWEDEN
+Simplo Technology Co Ltd,TAIWAN
+Silicon Motion Technology Corp,TAIWAN
+Fingerprint Cards AB,SWEDEN
+GDS Holdings Ltd,CHINA
+XPeng Inc,CHINA
+Dynapack International Technology Corp,TAIWAN
+RADA Electronic Industries Ltd,ISRAEL
+Converge Technology Solutions Corp,CANADA
+Thyrocare Technologies Ltd,INDIA
+Maxell Ltd,JAPAN
+SMC Corp,JAPAN
+Blue Prism Group plc,BRITAIN
+Komatsu Ltd,JAPAN
+Agora Inc,CHINA
+FANUC Corp,JAPAN
+Torii Pharmaceutical Co Ltd,JAPAN
+Koh Young Technology Inc,SOUTH KOREA
+Samsung SDI Co Ltd,SOUTH KOREA
+ABB Ltd,SWITZERLAND
+Enlight Renewable Energy Ltd,ISRAEL
+Niu Technologies,CHINA
+Magna International Inc,CANADA
+Valeo,FRANCE
+GS Yuasa Corp,JAPAN
+Hyundai Motor Co,SOUTH KOREA
+United Renewable Energy Co Ltd/Taiwan,TAIWAN
+Bytes Technology Group PLC,BRITAIN
+Aritzia Inc,CANADA
+Alfen Beheer BV,NETHERLANDS
+Faurecia SE,FRANCE
+Tung Thih Electronic Co Ltd,TAIWAN
+Sayona Mining Ltd,AUSTRALIA
+Hyundai Motor Co,SOUTH KOREA
+Sato Holdings Corp,JAPAN
+Yaskawa Electric Corp,JAPAN
+SEEK Ltd,AUSTRALIA
+Canadian Solar Inc,CANADA
+Meyer Burger Technology AG,SWITZERLAND
+Vidente Co Ltd,SOUTH KOREA
+Dawonsys Co Ltd,SOUTH KOREA
+Daihen Corp,JAPAN
+NEL ASA,NORWAY
+CellSource Co Ltd,JAPAN
+Kung Long Batteries Industrial Co Ltd,TAIWAN
+Ever Supreme Bio Technology Co Ltd,TAIWAN
+Li Auto Inc,CHINA
+Ecopro Co Ltd,SOUTH KOREA
+Omron Corp,JAPAN
+GMO Financial Holdings Inc,JAPAN
+Fuji Corp/Aichi,JAPAN
+L&F Co Ltd,SOUTH KOREA
+carsales.com Ltd,AUSTRALIA
+Frencken Group Ltd,MALAYSIA
+Idec Corp/Japan,JAPAN
+Hollysys Automation Technologies Ltd,CHINA
+SolarEdge Technologies Inc,ISRAEL
+SAP SE,GERMANY
+ALI HEALTH,HONG KONG
+Tianneng Power International Ltd,CHINA
+Sensirion Holding AG,SWITZERLAND
+Yamaha Motor Co Ltd,JAPAN
+Honda Motor Co Ltd,JAPAN
+Geely Automobile Holdings Ltd,HONG KONG
+Admicom Oyj,FINLAND
+Renesas Electronics Corp,JAPAN
+Denso Corp,JAPAN
+Amara Raja Batteries Ltd,INDIA
+Vitesco Technologies Group AG,GERMANY
+Ballard Power Systems Inc,CANADA
+Novonix Ltd,AUSTRALIA
+EHang Holdings Ltd,CHINA
+BioNTech SE,GERMANY
+Cango Inc/KY,CHINA
+RDC Semiconductor Co Ltd,TAIWAN
+Hexagon AB,SWEDEN
+CYBERDYNE Inc,JAPAN
+Airtrip Corp,JAPAN
+Innergex Renewable Energy Inc,CANADA
+Immunotech Biopharm Ltd,CHINA
+Capcom Co Ltd,JAPAN
+Kingsoft Corp Ltd,CHINA
+Hyundai Motor Co,SOUTH KOREA
+Yokowo Co Ltd,JAPAN
+Seiko Epson Corp,JAPAN
+Freee KK,JAPAN
+Naspers Ltd,SOUTH AFRICA
+Mando Corp,SOUTH KOREA
+Ecopro BM Co Ltd,SOUTH KOREA
+AT&S Austria Technologie & Systemtechnik,AUSTRIA
+Lonking Holdings Ltd,CHINA
+Energiekontor AG,GERMANY
+Docebo Inc,CANADA
+LINK Mobility Group Holding ASA,NORWAY
+Materialise NV,BELGIUM
+Meltwater Holding NV,NETHERLANDS
+Energix-Renewable Energies Ltd,ISRAEL
+Echo Marketing Inc,SOUTH KOREA
+Encavis AG,GERMANY
+Atoss Software AG,GERMANY
+GCL New Energy Holdings Ltd,HONG KONG
+Yadea Group Holdings Ltd,CHINA
+Haitian International Holdings Ltd,CHINA
+Sebang Global Battery Co Ltd,SOUTH KOREA
+Doral Group Renewable Energy Resources L,ISRAEL
+Johnson Electric Holdings Ltd,HONG KONG
+PKSHA Technology Inc,JAPAN
+Fukui Computer Holdings Inc,JAPAN
+Sterlite Technologies Ltd,INDIA
+Energy Absolute PCL,THAILAND
+Solaria Energia y Medio Ambiente SA,SPAIN
+Japan Material Co Ltd,JAPAN
+Giken Ltd,JAPAN
+REA Group Ltd,AUSTRALIA
+Soulbrain Co Ltd/New,SOUTH KOREA
+JTEKT Corp,JAPAN
+Xinyi Solar Holdings Ltd,CHINA
+Dassault Systemes SE,FRANCE
+Shanghai Henlius Biotech Inc,CHINA
+Falck Renewables SpA,ITALY
+ASKUL Corp,JAPAN
+Terna Energy SA,GREECE
+Gilat Satellite Networks Ltd,ISRAEL
+Hensoldt AG,GERMANY
+Exide Industries Ltd,INDIA
+Garrett Motion Inc,SWITZERLAND
+CG Power & Industrial Solutions Ltd,INDIA
+PANDA GREEN,HONG KONG
+Vodafone Idea Ltd,INDIA
+Eagle Industry Co Ltd,JAPAN
+ITM Semiconductor Co Ltd,SOUTH KOREA
+CreditAccess Grameen Ltd,INDIA
+Chunbo Co Ltd,SOUTH KOREA
+Varta AG,GERMANY
+Chief Telecom Inc,TAIWAN
+Hangzhou Tigermed Consulting Co Ltd,CHINA
+Fastned BV,NETHERLANDS
+ViTrox Corp Bhd,MALAYSIA
+Just Dial Ltd,INDIA
+LEM Holding SA,SWITZERLAND
+SMA Solar Technology AG,GERMANY
+PPK Group Ltd,AUSTRALIA
+Silverlake Axis Ltd,SINGAPORE
+Schaeffler India Ltd,INDIA
+Hankook & Co Co Ltd,SOUTH KOREA
+BCPG PCL,THAILAND
+BYD Co Ltd,CHINA
+CK Power PCL,THAILAND
+Joinn Laboratories China Co Ltd,CHINA
+Ganfeng Lithium Co Ltd,CHINA
+DiDi Global Inc,CHINA
+Schaeffler AG,GERMANY
+BGI Genomics Co Ltd,CHINA
+Beijing Wantai Biological Pharmacy Enter,CHINA
+Autobio Diagnostics Co Ltd,CHINA
+Flat Glass Group Co Ltd,CHINA
+Montage Technology Co Ltd,CHINA
+Shanghai Junshi Biosciences Co Ltd,CHINA
+Hangzhou Tigermed Consulting Co Ltd,CHINA
+CECEP Solar Energy Co Ltd,CHINA
+Ningbo Joyson Electronic Corp,CHINA
+Eve Energy Co Ltd,CHINA
+Shanghai Putailai New Energy Technology,CHINA
+Shenzhen Kedali Industry Co Ltd,CHINA
+Beijing BDStar Navigation Co Ltd,CHINA
+Zhejiang Huayou Cobalt Co Ltd,CHINA
+Sunwoda Electronic Co Ltd,CHINA
+TINCI,CHINA
+Zhejiang HangKe Technology Inc Co,CHINA
+SENIOR,CHINA
+Youngy Co Ltd,CHINA
+Contemporary Amperex Technology Co Ltd,CHINA
+EASPRING,CHINA
+Shenzhen Capchem Technology Co Ltd,CHINA
+Sungrow Power Supply Co Ltd,CHINA
+Ganfeng Lithium Co Ltd,CHINA
+NAURA Technology Group Co Ltd,CHINA
+Xiamen Tungsten Co Ltd,CHINA
+NavInfo Co Ltd,CHINA
+China Yangtze Power Co Ltd,CHINA
+Gotion High-tech Co Ltd,CHINA
+Shenzhen Transsion Holdings Co Ltd,CHINA
+Suzhou Maxwell Technologies Co Ltd,CHINA
+Flat Glass Group Co Ltd,CHINA
+GCL System Integration Technology Co Ltd,CHINA
+Ecovacs Robotics Co Ltd,CHINA
+BYD Co Ltd,CHINA
+Wolters Kluwer NV,NETHERLANDS
+Anterogen Co Ltd,SOUTH KOREA
+GeneOne Life Science Inc,SOUTH KOREA
+iNtRON Biotechnology Inc,SOUTH KOREA
+Ergomed PLC,BRITAIN
+Naturecell Co Ltd,SOUTH KOREA
+Adaptimmune Therapeutics Plc,BRITAIN
+Infomart Corp,JAPAN
+Check Point Software Technologies Ltd,ISRAEL
+Provident Financial PLC,BRITAIN
+Atos SE,FRANCE
+Clinigen Group Plc,BRITAIN
+Jumia Technologies AG,GERMANY
+uniQure NV,NETHERLANDS
+AptaBio Therapeutics Inc,SOUTH KOREA
+Swissquote Group Holding SA,SWITZERLAND
+Douzone Bizon Co Ltd,SOUTH KOREA
+TCS Group Holding PLC,CYPRUS
+Esprinet SpA,ITALY
+Vnet Group Inc,CHINA
+Webjet Ltd,AUSTRALIA
+Metropolis Healthcare Ltd,INDIA
+Medigen Vaccine Biologics Corp,TAIWAN
+Pharma Mar SA,SPAIN
+Koninklijke Philips NV,NETHERLANDS
+Green Cross Corp/South Korea,SOUTH KOREA
+DeNA Co Ltd,JAPAN
+Open Text Corp,CANADA
+NEXTDC Ltd,AUSTRALIA
+LiveChat Software SA,POLAND
+Daqo New Energy Corp,CHINA
+LG Chem Ltd,SOUTH KOREA
+Chabiotech Co Ltd,SOUTH KOREA
+3SBio Inc,CHINA
+Essex Bio-technology Ltd,HONG KONG
+Jumbo Interactive Ltd,AUSTRALIA
+DouYu International Holdings Ltd,CHINA
+Covestro AG,GERMANY
+Spirent Communications PLC,BRITAIN
+Magnachip Semiconductor Corp,SOUTH KOREA
+WNS Holdings Ltd,INDIA
+Kawasaki Heavy Industries Ltd,JAPAN
+Trip.com Group Ltd,CHINA
+Allkem Ltd,AUSTRALIA
+Biocon Ltd,INDIA
+Infineon Technologies AG,GERMANY
+TXC Corp,TAIWAN
+JOYY Inc,SINGAPORE
+Takara Bio Inc,JAPAN
+HEALIOS KK,JAPAN
+Perion Network Ltd,ISRAEL
+ADC Therapeutics SA,SWITZERLAND
+People & Technology Inc,SOUTH KOREA
+Enel SpA,ITALY
+SRE Holdings Corp,JAPAN
+Autoliv Inc,SWEDEN
+Azbil Corp,JAPAN
+360 DigiTech Inc,CHINA
+KINGDEE INT'L,CHINA
+Baozun Inc,CHINA
+Holy Stone Enterprise Co Ltd,TAIWAN
+Holtek Semiconductor Inc,TAIWAN
+Imdex Ltd,AUSTRALIA
+Tatung Co Ltd,TAIWAN
+Instituto Hermes Pardini SA,BRAZIL
+Ituran Location and Control Ltd,ISRAEL
+Glory Ltd,JAPAN
+Jenoptik AG,GERMANY
+Criteo SA,FRANCE
+Supreme Electronics Co Ltd,TAIWAN
+DiaSorin SpA,ITALY
+Euromoney Institutional Investor PLC,BRITAIN
+Linamar Corp,CANADA
+Descartes Systems Group Inc/The,CANADA
+McPhy Energy SA,FRANCE
+Nagarro SE,GERMANY
+Melrose Industries PLC,BRITAIN
+LG Chem Ltd,SOUTH KOREA
+Compal Electronics Inc,TAIWAN
+Albioma SA,FRANCE
+PowerCell Sweden AB,SWEDEN
+Rohm Co Ltd,JAPAN
+Mobile TeleSystems PJSC,RUSSIA
+Karo Pharma AB,SWEDEN
+Johnson Matthey PLC,BRITAIN
+AEM Holdings Ltd,SINGAPORE
+Kanto Denka Kogyo Co Ltd,JAPAN
+Media & Games Invest SE,MALTA
+Chemring Group PLC,BRITAIN
+Sodick Co Ltd,JAPAN
+Hitachi Ltd,JAPAN
+Boozt AB,SWEDEN
+Samwha Capacitor Co Ltd,SOUTH KOREA
+Komax Holding AG,SWITZERLAND
+SES SA,LUXEMBOURG
+Immatics NV,GERMANY
+Career Technology MFG. Co Ltd,TAIWAN
+Netcompany Group A/S,DENMARK
+ASM Pacific Technology Ltd,HONG KONG
+Infosys Ltd,INDIA
+CanSino Biologics Inc,CHINA
+Blue Star Ltd,INDIA
+Voltas Ltd,INDIA
+Genetron Holdings Ltd,CHINA
+ITEQ Corp,TAIWAN
+Nordic Semiconductor ASA,NORWAY
+TechMatrix Corp,JAPAN
+Asahi Kasei Corp,JAPAN
+Novocure Ltd,JERSEY
+Accton Technology Corp,TAIWAN
+Computer Age Management Services Ltd,INDIA
+Boralex Inc,CANADA
+Mabuchi Motor Co Ltd,JAPAN
+Softcat PLC,BRITAIN
+Meitu Inc,CHINA
+Delta Electronics Inc,TAIWAN
+Foosung Co Ltd,SOUTH KOREA
+Hiwin Technologies Corp,TAIWAN
+ARB Corp Ltd,AUSTRALIA
+TEN Square Games SA,POLAND
+TDK Corp,JAPAN
+Landis+Gyr Group AG,SWITZERLAND
+Sumitomo Heavy Industries Ltd,JAPAN
+Ultra Electronics Holdings PLC,BRITAIN
+Hanwha Solutions Corp,SOUTH KOREA
+Tamura Corp,JAPAN
+Lenovo Group Ltd,CHINA
+Hanmi Semiconductor Co Ltd,SOUTH KOREA
+TI Fluid Systems PLC,BRITAIN
+Taiwan Surface Mounting Technology Corp,TAIWAN
+eDreams ODIGEO SA,SPAIN
+Nippon Carbon Co Ltd,JAPAN
+SIMMTECH Co Ltd,SOUTH KOREA
+SB Technology Corp,JAPAN
+Visual Photonics Epitaxy Co Ltd,TAIWAN
+Hong Kong Technology Venture Co Ltd,HONG KONG
+NHN Corp,SOUTH KOREA
+Siemens AG,GERMANY
+Spotify Technology SA,SWEDEN
+Roche Holding AG,SWITZERLAND
+Melexis NV,BELGIUM
+Surgical Science Sweden AB,SWEDEN
+Despegar.com Corp,ARGENTINA
+Super Energy Corp PCL,THAILAND
+Grand Pacific Petrochemical,TAIWAN
+AB Dynamics PLC,BRITAIN
+Partron Co Ltd,SOUTH KOREA
+FD Technologies PLC,BRITAIN
+Magic Software Enterprises Ltd,ISRAEL
+West Holdings Corp,JAPAN
+Pegatron Corp,TAIWAN
+AAC Technologies Holdings Inc,CHINA
+Suven Pharmaceuticals Ltd,INDIA
+Mitsui Chemicals Inc,JAPAN
+Atlassian Corp PLC,AUSTRALIA
+Micro-Star International Co Ltd,TAIWAN
+Win Semiconductors Corp,TAIWAN
+Taita Chemical Co Ltd,TAIWAN
+Elbit Systems Ltd,ISRAEL
+Asia Pacific Telecom Co Ltd,TAIWAN
+GB Group PLC,BRITAIN
+Nachi-Fujikoshi Corp,JAPAN
+Bechtle AG,GERMANY
+NSK Ltd,JAPAN
+HUYA Inc,CHINA
+Mapletree Industrial Trust,SINGAPORE
+Paysafe Ltd,BRITAIN
+Restar Holdings Corp,JAPAN
+HCL Technologies Ltd,INDIA
+Sansan Inc,JAPAN
+My EG Services Bhd,MALAYSIA
+Sang-A Frontec Co Ltd,SOUTH KOREA
+RFHIC Corp,SOUTH KOREA
+Orsted AS,DENMARK
+WEG SA,BRAZIL
+Inficon Holding AG,SWITZERLAND
+Solus Advanced Materials Co Ltd,SOUTH KOREA
+Park24 Co Ltd,JAPAN
+Shinkong Synthetic Fibers Corp,TAIWAN
+Toyota Motor Corp,JAPAN
+Nanofilm Technologies International Ltd,SINGAPORE
+Kape Technologies PLC,BRITAIN
+Wiit SpA,ITALY
+V-Guard Industries Ltd,INDIA
+Dustin Group AB,SWEDEN
+Turkcell Iletisim Hizmetleri AS,TURKEY
+Europcar Mobility Group,FRANCE
+CH Karnchang PCL,THAILAND
+Chicony Power Technology Co Ltd,TAIWAN
+Hyundai Heavy Industries Holdings Co Ltd,SOUTH KOREA
+CompuGroup Medical SE & Co KgaA,GERMANY
+Pharmaron Beijing Co Ltd,CHINA
+Gunkul Engineering PCL,THAILAND
+AVEVA Group PLC,BRITAIN
+MakeMyTrip Ltd,INDIA
+Vanguard International Semiconductor Cor,TAIWAN
+SKF India Ltd,INDIA
+NNIT A/S,DENMARK
+Youdao Inc,CHINA
+Monex Group Inc,JAPAN
+Episil-Precision Inc,TAIWAN
+Aisin Corp,JAPAN
+Newborn Town Inc,CHINA
+United Internet AG,GERMANY
+Shibuya Corp,JAPAN
+Sharp Corp/Japan,JAPAN
+United Tractors Tbk PT,INDONESIA
+GEK Terna Holding Real Estate Constructi,GREECE
+Chofu Seisakusho Co Ltd,JAPAN
+New Work SE,GERMANY
+LK Technology Holdings Ltd,HONG KONG
+Tata Communications Ltd,INDIA
+Dr. Martens Plc,BRITAIN
+SK Telecom Co Ltd,SOUTH KOREA
+Emirates Telecommunications Group Co PJS,UAE
+WuXi AppTec Co Ltd,CHINA
+Renishaw PLC,BRITAIN
+Far EasTone Telecommunications Co Ltd,TAIWAN
+LS Electric Co Ltd,SOUTH KOREA
+Toho Titanium Co Ltd,JAPAN
+Adani Green Energy Ltd,INDIA
+Engie Brasil Energia SA,BRAZIL
+Bollore SA,FRANCE
+ElringKlinger AG,GERMANY
+Wipro Ltd,INDIA
+Datalogic SpA,ITALY
+Route Mobile Ltd,INDIA
+TransAlta Renewables Inc,CANADA
+Delta Electronics Thailand PCL,THAILAND
+OHB SE,GERMANY
+Beijing United Information Technology Co,CHINA
+Mosenergo PJSC,RUSSIA
+Eramet SA,FRANCE
+Pharmaron Beijing Co Ltd,CHINA
+Absolute Clean Energy PCL,THAILAND
+Azure Power Global Ltd,INDIA
+WuXi AppTec Co Ltd,CHINA
+China Suntien Green Energy Corp Ltd,CHINA
+CanSino Biologics Inc,CHINA
+Siemens Ltd,INDIA
+Manila Electric Co,PHILIPPINES
+Zheshang Securities Co Ltd,CHINA
+Ingenic Semiconductor Co Ltd,CHINA
+Shenzhen New Industries Biomedical Engin,CHINA
+China Baoan Group Co Ltd,CHINA
+GEM Co Ltd,CHINA
+LONGi Green Energy Technology Co Ltd,CHINA
+Raytron Technology Co Ltd,CHINA
+Thunder Software Technology Co Ltd,CHINA
+Autel Intelligent Technology Corp Ltd,CHINA
+Tongwei Co Ltd,CHINA
+Kuang-Chi Technologies Co Ltd,CHINA
+Sangfor Technologies Inc,CHINA
+Kunlun Tech Co Ltd,CHINA
+Zhejiang Chint Electrics Co Ltd,CHINA
+Huizhou Desay Sv Automotive Co Ltd,CHINA
+JCET Group Co Ltd,CHINA
+Shenzhen Sunway Communication Co Ltd,CHINA
+Sichuan Chuantou Energy Co Ltd,CHINA
+Avary Holding Shenzhen Co Ltd,CHINA
+SG Micro Corp,CHINA
+Gigadevice Semiconductor Beijing Inc,CHINA
+Will Semiconductor Co Ltd Shanghai,CHINA
+Roche Holding AG,SWITZERLAND
+Foxconn Industrial Internet Co Ltd,CHINA
